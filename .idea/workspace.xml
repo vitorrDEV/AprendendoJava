@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9843ae15-0308-4f9b-9e48-0a7576506c72" name="Changes" comment="" />
+    <list default="true" id="9843ae15-0308-4f9b-9e48-0a7576506c72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2tSdOrry0yFuvVP6h05csHwI81B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -172,7 +175,7 @@
       <workItem from="1740571105539" duration="5109000" />
       <workItem from="1740658442916" duration="4950000" />
       <workItem from="1740663750956" duration="2419000" />
-      <workItem from="1740748200684" duration="1801000" />
+      <workItem from="1740748200684" duration="2121000" />
     </task>
     <servers />
   </component>
