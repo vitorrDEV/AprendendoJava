@@ -141,11 +141,11 @@
       </method>
     </configuration>
     <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.introducaoclasses.test.EstudanteTest01" />
+      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.EstudanteTest01" />
       <module name="AulaDevDojo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mendes.vitor.maratonajava.javacore.introducaoclasses.test.*" />
+          <option name="PATTERN" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

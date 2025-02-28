@@ -1,6 +1,6 @@
-package mendes.vitor.maratonajava.javacore.introducaoclasses.test;
+package mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test;
 
-import mendes.vitor.maratonajava.javacore.introducaoclasses.dominio.Estudante;
+import mendes.vitor.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {
@@ -9,6 +9,5 @@ public class EstudanteTest01 {
         estudante.idade = 21;
         estudante.sexo = 'M';
         System.out.println(estudante.nome);
-
     }
 }
