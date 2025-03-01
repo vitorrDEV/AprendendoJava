@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9843ae15-0308-4f9b-9e48-0a7576506c72" name="Changes" comment="dominio">
-      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" afterDir="false" />
+    <list default="true" id="9843ae15-0308-4f9b-9e48-0a7576506c72" name="Changes" comment="on">
+      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Application.Aula07Arrays02.executor": "Run",
     "Application.Aula07Arrays03.executor": "Run",
     "Application.Aula07ArraysMultidimensionais01.executor": "Run",
+    "Application.CarroTest01.executor": "Run",
     "Application.DevDojo.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
@@ -90,9 +91,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProfessorTest01">
-    <configuration name="Aula07Arrays03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.introducao.Aula07Arrays03" />
+  <component name="RunManager" selected="Application.CarroTest01">
+    <configuration name="Aula07ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.introducao.Aula07ArraysMultidimensionais01" />
       <module name="AulaDevDojo1" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula07ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.introducao.Aula07ArraysMultidimensionais01" />
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.CarroTest01" />
       <module name="AulaDevDojo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mendes.vitor.maratonajava.introducao.*" />
+          <option name="PATTERN" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.ProfessorTest01" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudanteTest01" />
         <item itemvalue="Application.Aula07ArraysMultidimensionais01" />
-        <item itemvalue="Application.Aula07Arrays03" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +194,7 @@
       <workItem from="1740658442916" duration="4950000" />
       <workItem from="1740663750956" duration="2419000" />
       <workItem from="1740748200684" duration="10282000" />
-      <workItem from="1740837954804" duration="683000" />
+      <workItem from="1740837954804" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="sub">
       <option name="closed" value="true" />
@@ -243,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740761681208</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="on">
+      <option name="closed" value="true" />
+      <created>1740838729938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740838729938</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +263,7 @@
     <MESSAGE value="sub0" />
     <MESSAGE value="arrayMultidimensionais" />
     <MESSAGE value="dominio" />
-    <option name="LAST_COMMIT_MESSAGE" value="dominio" />
+    <MESSAGE value="on" />
+    <option name="LAST_COMMIT_MESSAGE" value="on" />
   </component>
 </project>
