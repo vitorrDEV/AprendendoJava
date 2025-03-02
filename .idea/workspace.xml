@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9843ae15-0308-4f9b-9e48-0a7576506c72" name="Changes" comment="car">
-      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java" afterDir="false" />
+    <list default="true" id="9843ae15-0308-4f9b-9e48-0a7576506c72" name="Changes" comment="cal">
+      <change afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mendes/vitor/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,7 @@
     "Application.Aula07ArraysMultidimensionais01.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
     "Application.CalculadoraTest02.executor": "Run",
+    "Application.CalculadoraTest03.executor": "Run",
     "Application.CarroTest01.executor": "Run",
     "Application.DevDojo.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
@@ -94,7 +94,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraTest02">
+  <component name="RunManager" selected="Application.CalculadoraTest03">
     <configuration name="CalculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest01" />
       <module name="AulaDevDojo1" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.CarroTest01" />
+    <configuration name="CalculadoraTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest03" />
       <module name="AulaDevDojo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.*" />
+          <option name="PATTERN" value="mendes.vitor.maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.EstudanteTest02" />
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mendes.vitor.maratonajava.javacore.Aintroducaoclasses.test.CarroTest01" />
       <module name="AulaDevDojo1" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraTest03" />
         <item itemvalue="Application.CalculadoraTest02" />
         <item itemvalue="Application.CalculadoraTest01" />
         <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.ProfessorTest01" />
-        <item itemvalue="Application.EstudanteTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,7 @@
       <workItem from="1740663750956" duration="2419000" />
       <workItem from="1740748200684" duration="10282000" />
       <workItem from="1740837954804" duration="2256000" />
-      <workItem from="1740935513508" duration="1848000" />
+      <workItem from="1740935513508" duration="4106000" />
     </task>
     <task id="LOCAL-00001" summary="sub">
       <option name="closed" value="true" />
@@ -264,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740839893393</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cal">
+      <option name="closed" value="true" />
+      <created>1740937528704</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740937528704</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +285,7 @@
     <MESSAGE value="dominio" />
     <MESSAGE value="on" />
     <MESSAGE value="car" />
-    <option name="LAST_COMMIT_MESSAGE" value="car" />
+    <MESSAGE value="cal" />
+    <option name="LAST_COMMIT_MESSAGE" value="cal" />
   </component>
 </project>
